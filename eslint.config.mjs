@@ -25,6 +25,6 @@ export default tseslint.config(
   },
   eslintConfigPrettier,
   {
-    ignores: ['node_modules/**', 'playwright-report/**', 'test-results/**', "eslint.config.mjs"],
+    ignores: ['node_modules/**', 'playwright-report/**', 'test-results/**', 'eslint.config.mjs'],
   },
 );
